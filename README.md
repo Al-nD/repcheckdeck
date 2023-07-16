@@ -17,3 +17,7 @@ We used opencv pose detection to see the position of the appendages of the perso
 # plans for the future
 
 In the future, we plan to expand our services from bench press and shoulder press to other exercises such as squats, rows, and curls. 
+
+# Credits
+Big Thanks to Nicholas Renotte for a deep explanation of the project
+Edits made by Alan Deng, Abhiram Violette, and Raymond Wu
