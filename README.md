@@ -5,6 +5,15 @@ A prevalent problem that plagues the gym community is not getting full ROM (rang
 
 We used opencv pose detection to see the position of the appendages of the person, and used trigonometry to determine how deep one should go during a rep. When a rep is fully completed, the calorie counter increases in accordance with the effort it takes to complete the rep. 
 
+![image](https://github.com/avisawesome/repcheckdeck/assets/87251901/2a100569-58d7-4034-b19a-f55e171695a5)
+![image](https://github.com/avisawesome/repcheckdeck/assets/87251901/04e3eaf8-bcc0-47e1-a48c-acdbf084791b)
+![image](https://github.com/avisawesome/repcheckdeck/assets/87251901/4089558e-d56e-4554-93b0-db6ff770f801)
+![image](https://github.com/avisawesome/repcheckdeck/assets/87251901/7eced138-de17-4809-8361-2994b57a46b9)
+
+
+
+
+
 # plans for the future
 
 In the future, we plan to expand our services from bench press and shoulder press to other exercises such as squats, rows, and curls. 
